@@ -4,9 +4,9 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net8.0-windows</TargetFramework>
     <UseWPF>true</UseWPF>
-    <ApplicationIcon>Assets\shield.ico</ApplicationIcon>
     <AssemblyName>RobloxGuard</AssemblyName>
     <RootNamespace>RobloxGuard</RootNamespace>
+    <Nullable>enable</Nullable>
     <PublishSingleFile>true</PublishSingleFile>
     <SelfContained>true</SelfContained>
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
